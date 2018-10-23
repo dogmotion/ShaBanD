@@ -1,0 +1,15 @@
+header{
+    background-color:black;
+    height: 30%;
+    right:0px;
+    left:0px;
+    min-width: 100%;
+    color:white;
+    background-position:fixed;
+    list-style:none;
+}
+#p
+{
+   text-align:centerline;
+   
+}

@@ -6,10 +6,23 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXFileReference section */
+		0347C1A5217CF2500003DEC7 /* Style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = Style.css; sourceTree = "<group>"; };
+		0347C1A8217E0F420003DEC7 /* groupe.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = groupe.html; sourceTree = "<group>"; };
+		0347C1A9217F1C7A0003DEC7 /* Style2.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = Style2.css; sourceTree = "<group>"; };
+		036707B8217C967700E9DD6B /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		036707B9217CA24900E9DD6B /* date.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = date.html; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		036707B1217C95EA00E9DD6B = {
 			isa = PBXGroup;
 			children = (
+				0347C1A8217E0F420003DEC7 /* groupe.html */,
+				036707B9217CA24900E9DD6B /* date.html */,
+				036707B8217C967700E9DD6B /* index.html */,
+				0347C1A5217CF2500003DEC7 /* Style.css */,
+				0347C1A9217F1C7A0003DEC7 /* Style2.css */,
 			);
 			sourceTree = "<group>";
 		};
@@ -21,7 +34,7 @@
 			attributes = {
 				LastUpgradeCheck = 1000;
 			};
-			buildConfigurationList = 036707B5217C95EA00E9DD6B /* Build configuration list for PBXProject "HTML" */;
+			buildConfigurationList = 036707B5217C95EA00E9DD6B /* Build configuration list for PBXProject "ShaBanD.com" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -52,7 +65,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		036707B5217C95EA00E9DD6B /* Build configuration list for PBXProject "HTML" */ = {
+		036707B5217C95EA00E9DD6B /* Build configuration list for PBXProject "ShaBanD.com" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				036707B6217C95EA00E9DD6B /* Debug */,

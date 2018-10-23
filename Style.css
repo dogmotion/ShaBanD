@@ -1,0 +1,61 @@
+header{
+    background-color:black;
+    height: 100%;
+    right:0px;
+    left:0px;
+    min-width: 100%;
+}
+
+#body{
+   
+    height:100%;
+    background:black url("image.png");
+    background-position: center;
+    background-size :auto auto;
+    background-repeat:no-repeat;
+    overflow:scroll;
+    margin:10 20;
+}
+.txthome
+{
+    margin: 0 auto;
+    width: 800px;
+    background-color: rgba(0,0,0,0.8)
+}
+#entete {
+    color:white;
+}
+#nav {
+    padding: 50; margin: 50;
+    text-align: center;
+}
+#nav li {
+    display: inline;
+    list-style: none;
+}
+#nav a {
+    display:inline-block;
+    margin: 0 20px;
+}
+#event
+{
+    text-align: center;
+    color: white;
+}
+p
+{
+    color:white;
+    text-align:center;
+}
+ul
+{
+    color:white;
+    text-align:center;
+    list-style:none;
+}
+h2
+{
+    color:white;
+    text-align:center;
+}
+
